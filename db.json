@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": "0",
+      "name": "Лампа белая",
+      "category": "Лампа",
+      "price": 49.99,
+      "description": "Настольноая лампа белого цвета",
+      "image": "img/lampa1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Лампа напольная",
+      "category": "Лампа",
+      "price": 59.99,
+      "description": "Прекрасная напольная лампа белого цвета",
+      "image": "img/lampa-pol.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Кресло серое",
+      "category": "Стул",
+      "price": 79.99,
+      "description": "Прекрасное кресло серого цвета ",
+      "image": "img/kreslo.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Стул серый",
+      "category": "Стул",
+      "price": 64.99,
+      "description": "Прекрасный стул серого цвета",
+      "image": "img/stul-ser.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Стул белый",
+      "category": "Стул",
+      "price": 64.99,
+      "description": "Прекрасный стул белого цвета",
+      "image": "img/stul-bel.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Диван белый",
+      "category": "Диван",
+      "price": 249.99,
+      "description": "Прекрасный диван белого цвета",
+      "image": "img/sofa-bel.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Диван серый",
+      "category": "Диван",
+      "price": 249.99,
+      "description": "Прекрасный диван серого цвета",
+      "image": "img/sofa-ser.webp"
+    },
+    {
+      "id": "7",
+      "name": "Стол серый",
+      "category": "Стол",
+      "price": 99.99,
+      "description": "Прекрасный серого белого цвета",
+      "image": "img/stol-ser.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Анатомический матрас",
+      "category": "Матрас",
+      "price": 2599.99,
+      "description": "Турецкий матрас ручной работы",
+      "image": "img/matras.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Стол белый",
+      "category": "Стол",
+      "price": 99.99,
+      "description": "Прекрасный стол белого цвета",
+      "image": "img/stol-bel.webp"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "0",
+      "name": "Лампа белая",
+      "category": "Лампа",
+      "price": 49.99,
+      "description": "Настольноая лампа белого цвета",
+      "image": "img/lampa1.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0",
+      "name": "Лампа белая",
+      "category": "Лампа",
+      "price": 49.99,
+      "description": "Настольноая лампа белого цвета",
+      "image": "img/lampa1.jpg",
+      "quantity": 3
+    }
+  ]
+}
